@@ -1,0 +1,27 @@
+{
+  "name": "acesso-dev",
+  "version": "1.0.0",
+  "description": "Projeto para tornar mais próximo o recrutadores dos candidatos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThattoDev/AcessoDev-Back.git"
+  },
+  "keywords": [
+    "node",
+    "acesso",
+    "dev"
+  ],
+  "author": "Thatto (Thácito)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThattoDev/AcessoDev-Back/issues"
+  },
+  "homepage": "https://github.com/ThattoDev/AcessoDev-Back#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
